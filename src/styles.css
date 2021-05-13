@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  border: solid 1px black;
+  width: 250px;
+  padding: 10px;
+  background-color: lightgrey;
+}
+.lbl {
+  float: left;
+  display: block;
+}
+
+.btn {
+  background-color: green;
+  color: white;
+}
+.btn-1 {
+  background-color: salmon;
+}
+.box-result {
+  color: red;
+  border: 1px solid;
+  width: 10px;
+}
